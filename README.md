@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##DEPLOYED LINK 
 
-check this out --> https://64561a5bb62351768f2890d1--inquisitive-pixie-a4a8a8.netlify.app/
+check this out --> https://64567aee338faa32a8529124--stunning-hamster-80ae28.netlify.app/
 
 ## Available Scripts
 
